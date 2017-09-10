@@ -45,15 +45,22 @@ export default class LabIntro extends React.Component {
 							</div>
 							<div className="row">
 								<div className="col">
-									<a href="#lab-math" className="text-white">
-										<h5><i className="fa fa-star" aria-hidden="true"></i> Mathematical Informatics</h5>
+									<a href="#lab-mi" className="text-white">
+										<h5><i className="fa fa-star" aria-hidden="true"></i> Mathematical Informatics (MI)</h5>
 									</a>
 								</div>
 							</div>
 							<div className="row">
 								<div className="col">
-									<a href="#lab-uc" className="text-white">
-										<h5><i className="fa fa-star" aria-hidden="true"></i> Ubiquitous Computing</h5>
+									<a href="#lab-ubi" className="text-white">
+										<h5><i className="fa fa-star" aria-hidden="true"></i> Ubiquitous Computing (UBI)</h5>
+									</a>
+								</div>
+							</div>
+							<div className="row">
+								<div className="col">
+									<a href="#lab-care" className="text-white">
+										<h5><i className="fa fa-star" aria-hidden="true"></i> Cybernetics and Reality Engineering (CARE)  </h5>
 									</a>
 								</div>
 							</div>

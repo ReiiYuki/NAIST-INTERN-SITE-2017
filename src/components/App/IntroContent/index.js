@@ -5,6 +5,11 @@ import TriSection from './TriSection'
 import LabIntro from './LabIntro'
 import Transportation from './Transportation'
 import Environment from './Environment'
+import SE from './SE'
+import UBI from './UBI'
+import CARE from './CARE'
+import IMD from './IMD'
+import MI from './MI'
 
 export default class IntroContent extends React.Component {
 
@@ -55,7 +60,12 @@ export default class IntroContent extends React.Component {
 				</div>
 				<TriSection />
 				<LabIntro />
-
+				<SE />
+				
+				<MI />
+				<UBI />
+				<CARE />
+				<IMD />
 				<Transportation />
 				<Environment />
 			</div>
